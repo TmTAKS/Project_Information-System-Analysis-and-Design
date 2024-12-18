@@ -1,5 +1,5 @@
 # Project_Information-System-Analysis-and-Design
-Project team Mall Management System
+Project team Mall Management System Sophomore
 
 ระบบการจองพื้นที่ภายในห้าง
 - Login Register
